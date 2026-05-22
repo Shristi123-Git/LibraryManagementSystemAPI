@@ -1,0 +1,6 @@
+@LibraryManagementAPI.Sync_HostAddress = http://localhost:5037
+
+GET {{LibraryManagementAPI.Sync_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../LibraryManagementAPI/LibraryManagementAPI/LibraryManagementAPI.Sync.csproj" />
+  <Project Path="LibraryManagementAPI.Async/LibraryManagementAPI.Async.csproj" />
+</Solution>
